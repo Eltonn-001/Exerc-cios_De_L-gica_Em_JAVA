@@ -1,0 +1,2 @@
+module ProjetoJava01 {
+}
